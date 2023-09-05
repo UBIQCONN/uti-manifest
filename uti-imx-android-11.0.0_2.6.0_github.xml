@@ -19,6 +19,7 @@
 
 <!-- For imx public git. -->
 <project path="vendor/nxp-opensource/uboot-imx" name="uti-uboot-imx" remote="uti-android" revision="android-11" />
+<project path="external/platform_external_libgpiod" name="uti-external_libgpiod" remote="uti-android" revision="android-11" />
 
 <project path="vendor/nxp-opensource/arm-trusted-firmware" name="imx-atf" remote="imx-linux-sdk" revision="refs/tags/android-11.0.0_2.6.0" />
 <project path="vendor/nxp-opensource/imx-lib" name="imx-lib" remote="imx-linux-sdk" revision="refs/tags/android-11.0.0_2.6.0" />
